@@ -1,0 +1,17 @@
+{
+  "name": "hanoystar999",
+  "theme": "syntax",
+  "version": "1.0.7",
+  "description": "ฮานอยสตาร์ สมัคร ซื้อหวยฮานอยสตาร์ พร้อม สถิติฮานอยสตาร์ ย้อนหลัง 5 งวด",
+  "keywords": [
+    "ฮานอยสตาร์",
+    "ซื้อหวยฮานอยสตาร์",
+    "สถิติฮานอยสตาร์",
+    "สถิติฮานอยสตาร์ย้อนหลัง"
+  ],
+  "repository": "https://github.com/earthza550/hanoystar555",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
